@@ -5,4 +5,5 @@
 Для компиляции запустите команду:
 
 ```
-gcc rew.cpp -o rew.ou
+gcc rew.cpp -o rew.out
+```
